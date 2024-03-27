@@ -1,1 +1,1 @@
-# 10-Academy
+# Data Science Projects
